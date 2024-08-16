@@ -20,7 +20,6 @@ poetry install
 poetry run python main.py
 ```
 # Example input
-Enter your current country and destination country along with the time duration of your visit:
 I am currently in Pakistan and planning a 7-day trip to France from August 17, 2024, to August 24, 2024.
 
 # Example output
