@@ -125,4 +125,3 @@ I am currently in Pakistan and planning a 7-day trip to France from August 17, 2
 - **Cultural Tips**: Be sure to learn a few basic French phrases to enhance your experience.
 
 Enjoy your trip exploring France's rich history, vibrant culture, and stunning landscapes!
-```
