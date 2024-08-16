@@ -1,7 +1,9 @@
 from crewai import Task
 from textwrap import dedent
 
+# create a class for tasks
 class TripTasks():
+    # create a function for each task
     def country_explorer_task(self,agent):
         return Task(
             description=dedent(
