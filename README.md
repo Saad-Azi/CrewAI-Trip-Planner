@@ -17,7 +17,7 @@ To use this program, ensure you have Python 3.11.7 installed. You also need to i
 
 ```bash
 poetry install
-python main.py
+poetry run python main.py
 ```
 # Example input
 Enter your current country and destination country along with the time duration of your visit:
