@@ -18,7 +18,7 @@ To use this program, ensure you have Python 3.11.7 installed. You also need to i
 ```bash
 poetry install
 python main.py
-
+```
 # Example input
 Enter your current country and destination country along with the time duration of your visit:
 I am currently in Pakistan and planning a 7-day trip to France from August 17, 2024, to August 24, 2024.
@@ -125,3 +125,4 @@ I am currently in Pakistan and planning a 7-day trip to France from August 17, 2
 - **Cultural Tips**: Be sure to learn a few basic French phrases to enhance your experience.
 
 Enjoy your trip exploring France's rich history, vibrant culture, and stunning landscapes!
+```
